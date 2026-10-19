@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nidhi Narayan 👋
 
-<!--
-**nidhinarayan/nidhinarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA 1st year student and aspiring software developer.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- C Programming
+- Python
+- HTML 
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build beginner projects and share them here
+- Improve my problem-solving skills
+- Contribute to open source in the future
+
+## 🛠️ Skills
+![C](https://img.shields.io/badge/C-Learning-blue)
+![Python](https://img.shields.io/badge/Python-Learning-yellow)
+![HTML](https://img.shields.io/badge/HTML-Learning-orange)
+![Git](https://img.shields.io/badge/Git-Learning-red)
+
+## 📫 Connect with me
+- LinkedIn: (www.linkedin.com/in/nidhi-narayan-991791427)
+- Email: (nidhinarayan2108@gmail.com)
+
+---
+⭐ Thanks for visiting my profile!
