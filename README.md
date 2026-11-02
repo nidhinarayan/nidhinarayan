@@ -7,6 +7,9 @@ BCA 1st year student and aspiring software developer.
 - Python
 - HTML 
 - Git & GitHub
+- ## 🚀 Projects
+
+- [Number Guessing Game](https://github.com/nidhinarayan/Number_Guessing_Game-) – C program using loops, random numbers and input handling
 
 ## 🎯 Goals
 - Build beginner projects and share them here
