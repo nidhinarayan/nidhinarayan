@@ -20,7 +20,7 @@ BCA 1st year student and aspiring software developer.
 ![Git](https://img.shields.io/badge/Git-Learning-red)
 
 ## 📫 Connect with me
-- LinkedIn: (www.linkedin.com/in/nidhi-narayan-991791427)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nidhi-narayan-991791427)
 - Email: (nidhinarayan2108@gmail.com)
 
 ---
